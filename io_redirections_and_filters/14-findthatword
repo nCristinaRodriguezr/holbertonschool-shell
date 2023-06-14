@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "raíz" /etc/passwd
+sudo grep "raíz" /etc/passwd
